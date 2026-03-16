@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>연합뉴스 RSS 대기중</title>
+    <link>https://www.yna.co.kr</link>
+    <description>GitHub Pages로 게시되는 연합뉴스 RSS</description>
+    <language>ko-kr</language>
+
+    <item>
+      <title>초기 설정 중입니다</title>
+      <link>https://www.yna.co.kr</link>
+      <description>GitHub Actions가 실행되면 실제 RSS로 갱신됩니다.</description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
