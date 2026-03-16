@@ -1,0 +1,34 @@
+
+name: Update YNA RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch YNA RSS
+        run: |
+          curl -L "https://www.yna.co.kr/rss/news.xml" -o rss.xml
+
+      - name: Validate file exists
+        run: |
+          test -s rss.xml
+
+      - name: Commit updated rss.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rss.xml
+          git diff --cached --quiet || git commit -m "Update rss.xml"
+          git push
