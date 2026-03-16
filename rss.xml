@@ -1,16 +1,1282 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>연합뉴스 RSS 대기중</title>
-    <link>https://www.yna.co.kr</link>
-    <description>GitHub Pages로 게시되는 연합뉴스 RSS</description>
-    <language>ko-kr</language>
-
-    <item>
-      <title>초기 설정 중입니다</title>
-      <link>https://www.yna.co.kr</link>
-      <description>GitHub Actions가 실행되면 실제 RSS로 갱신됩니다.</description>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+	<channel>
+		<title><![CDATA[연합뉴스 최신기사]]></title>
+		<link>https://www.yna.co.kr/news</link>
+		<atom:link href="https://www.yna.co.kr/rss/news.xml" rel="self" type="application/rss+xml" />
+		<description><![CDATA[연합뉴스 실시간 최신뉴스입니다]]></description>
+		<language>ko-KR</language>
+		<copyright><![CDATA[저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지]]></copyright>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<lastBuildDate>Mon, 16 Mar 2026 15:57:20 +0900</lastBuildDate>
+		<pubDate>Mon, 16 Mar 2026 15:57:20 +0900</pubDate>
+		<item>
+			<title><![CDATA[[프로야구 부산전적] 롯데 12-1 키움]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316123000007</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316123000007</guid>
+			<pubDate>Mon, 16 Mar 2026 15:57:20 +0900</pubDate>
+			<dc:creator>김동찬</dc:creator>
+			<description><![CDATA[▲ 부산전적(16일)]]></description>
+		</item>
+		<item>
+			<title><![CDATA[영세소상공인 기준 소득·자산 반영…정책자금 선착순 논란 개선(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316054151030</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316054151030</guid>
+			<pubDate>Mon, 16 Mar 2026 15:56:44 +0900</pubDate>
+			<dc:creator>구정모</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 구정모 기자 = 영세 소상공인 지원 기준을 매출액 중심에서 소득·자산 등을 반영하는 방식으로 전환하는 방안이 추진되고, 소상공...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031610940001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[졸음운전 화물차에 연쇄 추돌 사고…3명 다쳐]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316120300055</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316120300055</guid>
+			<pubDate>Mon, 16 Mar 2026 15:55:45 +0900</pubDate>
+			<dc:creator>나보배</dc:creator>
+			<description><![CDATA[(완주=연합뉴스) 나보배 기자 = 16일 낮 12시 54분께 전북 완주군 봉동읍의 한 도로에서 6.5t 화물차와 4t 화물차, 1t 화물차가 잇...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2019/09/19/04/PCM20190919000304990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[대법, 재판소원 후속조치 연구반 가동…형사재판 보호TF로 지원]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117600004</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117600004</guid>
+			<pubDate>Mon, 16 Mar 2026 15:55:44 +0900</pubDate>
+			<dc:creator>이미령</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 이미령 기자 = 대법원 법원행정처가 최근 시행된 재판소원 제도와 관련해 제도 안정까지 상당한 시일이 걸릴 것으로 예상하고 후속...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2018/12/04/39/PCM20181204011139990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[여자 화장실서 상습 불법 촬영했는데…법원은 영장 기각]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316122400061</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316122400061</guid>
+			<pubDate>Mon, 16 Mar 2026 15:54:44 +0900</pubDate>
+			<dc:creator>김솔</dc:creator>
+			<description><![CDATA[(화성=연합뉴스) 김솔 기자 = 상가건물 여자 화장실에서 여성을 상습적으로 불법 촬영한 남성이 경찰에 체포됐으나 법원이 영장을 기각하면서 풀려났...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2022/03/28/88/PCM20220328000088990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[특징주] CJ, 6% 상승 마감…올리브영 합병 기대감?(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316044351008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316044351008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:54:42 +0900</pubDate>
+			<dc:creator>황철환</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 황철환 기자 = CJ[001040]가 16일 6% 가까이 급등한 채 장을 마쳤다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/02/11/PYH2026021113820001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[특징주] 해운株, 호르무즈 해협 봉쇄로 운임 오르자 상승(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316034451008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316034451008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:53:10 +0900</pubDate>
+			<dc:creator>임은진</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 임은진 기자 = 호르무즈 해협 봉쇄로 해상 운임이 상승하면서 16일 해운주가 크게 올랐다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/12/PYH2026031213570006100_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[전남 함평군, 나비대축제 입장권 10％ 할인 사전 예매]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316122300054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316122300054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:52:19 +0900</pubDate>
+			<dc:creator>정다움</dc:creator>
+			<description><![CDATA[(함평=연합뉴스) 정다움 기자 = 전남 함평군은 16일 올해 함평나비대축제 개막을 앞두고 입장권을 사전 예매로 구매하면 10％ 할인받을 수 있다...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2025/03/21/PYH2025032115210005400_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[국힘, 혁신공천 닻 올렸지만…시작부터 반발 직면(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316069451001</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316069451001</guid>
+			<pubDate>Mon, 16 Mar 2026 15:52:04 +0900</pubDate>
+			<dc:creator>김치연</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 김치연 김유아 조다운 노선웅 기자 = 국민의힘 공천관리위원회가 16일 현역 충북지사 컷오프(공천배제)로 6·3 지방선거 혁신 ...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031606560001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316069451001_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[대전소식] 덕암야구장에 반려동물 놀이터 조성]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316121300063</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316121300063</guid>
+			<pubDate>Mon, 16 Mar 2026 15:51:51 +0900</pubDate>
+			<dc:creator>박주영</dc:creator>
+			<description><![CDATA[(대전=연합뉴스) 대전 대덕구는 16일 덕암야구장에 조성한 반려동물 놀이터 개장식을 했다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316121300063_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[쇼츠] '케데헌' 오스카 2관왕 쾌거…장편애니·주제가상 수상]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316121500704</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316121500704</guid>
+			<pubDate>Mon, 16 Mar 2026 15:49:59 +0900</pubDate>
+			<dc:creator>김화영</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) K-컬처를 세계에 알린 넷플릭스 애니메이션 영화 &apos;케이팝 데몬헌터스&apos;가 15일(현지시간) 제98회 아카데미 시상식에서 장편 애...]]></description>
+			<media:content url="https://www.youtube.com/embed/wALBTs4728o" medium="video" type="video/3gpp">
+				<media:description><![CDATA[[쇼츠] '케데헌' 오스카 2관왕 쾌거…장편애니·주제가상 수상 - 1]]></media:description>
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316121500704_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[속보] 靑, 美 호르무즈 군함파견 요청 관련 "한미 간 긴밀히 연락 중"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316119800001</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316119800001</guid>
+			<pubDate>Mon, 16 Mar 2026 15:49:54 +0900</pubDate>
+			<dc:creator>임형섭</dc:creator>
+			<description><![CDATA[(]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2025/12/24/49/PCM20251224000049990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[표] 거래소 기관 순매수도 상위종목(16일)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316120800008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316120800008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:48:05 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(단위:억원, 만주)
+]]></description>
+		</item>
+		<item>
+			<title><![CDATA[[표] 거래소 외국인 순매수도 상위종목(16일)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316120700008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316120700008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:47:58 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(단위:억원, 만주)
+]]></description>
+		</item>
+		<item>
+			<title><![CDATA[[표] 코스닥 기관 순매수도 상위종목(16일)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316120600008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316120600008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:47:50 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(단위:만원, 주)
+]]></description>
+		</item>
+		<item>
+			<title><![CDATA[[표] 코스닥 외국인 순매수도 상위종목(16일)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316120500008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316120500008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:47:42 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(단위:만원, 주)
+]]></description>
+		</item>
+		<item>
+			<title><![CDATA[[신간] 그날 계엄을 막지 못했더라면…정보라 신작 '처단']]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115400005</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115400005</guid>
+			<pubDate>Mon, 16 Mar 2026 15:47:09 +0900</pubDate>
+			<dc:creator>김기훈</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 김기훈 기자 = ▲ 처단 = 정보라 지음.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115400005_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115400005_03_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115400005_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[대전 대덕특구 12개 연구기관 주말개방…연구실 투어·강연]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316120400063</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316120400063</guid>
+			<pubDate>Mon, 16 Mar 2026 15:46:03 +0900</pubDate>
+			<dc:creator>박주영</dc:creator>
+			<description><![CDATA[(대전=연합뉴스) 박주영 기자 = 대전시는 16일 시청 중회의실에서 국가과학기술연구회, 대덕특구 12개 연구기관과 &apos;대덕특구 연구기관 주말개방&apos;...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316120400063_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[동포의 창] 동포 기업가들, 中 쿤밍서 한중 경제교류 확대 모색]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117100371</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117100371</guid>
+			<pubDate>Mon, 16 Mar 2026 15:45:04 +0900</pubDate>
+			<dc:creator>강성철</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 강성철 기자 = 중국 전역에서 활약하는 한인 기업가들이 한자리에 모여 한중 민간 경제 교류 플랫폼을 구축하는 행사가 열렸다. ]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316117100371_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[SOOP, 구글플레이와 스타크래프트 리그 연간 스폰서십]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115800017</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115800017</guid>
+			<pubDate>Mon, 16 Mar 2026 15:45:02 +0900</pubDate>
+			<dc:creator>김주환</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 김주환 기자 = SOOP[067160]은 구글 플레이와 스타크래프트: 리마스터 대회 &apos;ASL&apos; 2026년 연간 스폰서십을 체결...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115800017_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[아동·청소년에 시각 예술교육 지원…문체부 '꿈의 스튜디오']]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117900005</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117900005</guid>
+			<pubDate>Mon, 16 Mar 2026 15:44:14 +0900</pubDate>
+			<dc:creator>임순현</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 임순현 기자 = 문화체육관광부와 한국문화예술교육진흥원은 아동·청소년의 시각 예술교육을 지원하는 &apos;꿈의 스튜디오&apos; 정규사업을 시...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316117900005_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[영진전문대·영남이공대, 해외취업 지원 '신청해진대학' 선정]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113600053</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113600053</guid>
+			<pubDate>Mon, 16 Mar 2026 15:44:14 +0900</pubDate>
+			<dc:creator>이강일</dc:creator>
+			<description><![CDATA[(대구=연합뉴스) 이강일 기자 = 대구시는 고용노동부 한국산업인력공단이 주관하는 &apos;신(新)청해진 대학사업&apos; 공모에 영진전문대와 영남이공대가 선정...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316113600053_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[제주 동문시장, 2026년 'K-관광마켓'에 선정]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316120100056</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316120100056</guid>
+			<pubDate>Mon, 16 Mar 2026 15:44:04 +0900</pubDate>
+			<dc:creator>박지호</dc:creator>
+			<description><![CDATA[(제주=연합뉴스) 박지호 기자 = 제주시는 문화체육관광부와 한국관광공사가 주관한 2026년 &apos;K-관광마켓 2기 공모 사업&apos;에 제주 대표 전통시장...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2023/02/17/55/PCM20230217000255990_P2.jpeg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[특징주] 한국항공우주, 한화 협력 기대속 4%대 급등 마감(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316036051008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316036051008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:42:54 +0900</pubDate>
+			<dc:creator>황철환</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 황철환 기자 = 한국항공우주산업(KAI)이 16일 5% 가까이 급등한 채 거래를 마감했다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2025/12/18/PYH2025121815420000301_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[울주군, 통합방위협의회 정례회…"지역방위 태세 확립"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118800057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118800057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:42:46 +0900</pubDate>
+			<dc:creator>장영은</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 장영은 기자 = 울산 울주군은 16일 군청 이화홀에서 울주군 지역방위 태세 확립을 위해 &apos;2026년 1분기 울주군 통합방위협의...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316118800057_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[트럼프 "관세 절대권한 내게"…'상호관세 무효' 대법원 또 맹비난]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115300009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115300009</guid>
+			<pubDate>Mon, 16 Mar 2026 15:42:33 +0900</pubDate>
+			<dc:creator>김승욱</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 김승욱 기자 = 도널드 트럼프 미국 대통령이 자신의 주요 관세 카드 가운데 하나였던 상호관세를 무효화 한 미 연방대법원을 재차...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115300009_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[울주군, 인력 공백 읍면 민원실에 한시임기제 공무원 배치]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118700057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118700057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:42:18 +0900</pubDate>
+			<dc:creator>장영은</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 장영은 기자 = 울산 울주군은 행정 인력 부족으로 인한 주민 불편을 해소하기 위해 읍면 민원실에 &apos;한시임기제 공무원&apos;을 배치한...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2025/04/23/07/PCM20250423000007990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[염동열 예비후보 "강원도청사 신축 중단…기능 분산 배치"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116900062</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116900062</guid>
+			<pubDate>Mon, 16 Mar 2026 15:41:47 +0900</pubDate>
+			<dc:creator>이재현</dc:creator>
+			<description><![CDATA[(원주=연합뉴스) 이재현 기자 = 강원도청 신청사와 행정복합타운 논란이 6·3 지선의 주요 쟁점으로 떠오른 가운데 국민의힘 소속 염동열 강원도지...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116900062_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[하남시, '미사에 5성급 호텔 건립' 민간사업자와 협상 착수]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316114100061</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316114100061</guid>
+			<pubDate>Mon, 16 Mar 2026 15:41:38 +0900</pubDate>
+			<dc:creator>이우성</dc:creator>
+			<description><![CDATA[(하남=연합뉴스) 이우성 기자 = 경기 하남시는 미사강변도시 내 글로벌 브랜드 5성급 호텔 복합개발 사업을 제안한 민간 사업자와 사전 협상에 착...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316114100061_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[주담대 변동금리 또 오른다…2월 코픽스 0.05%p↑]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117000002</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117000002</guid>
+			<pubDate>Mon, 16 Mar 2026 15:41:34 +0900</pubDate>
+			<dc:creator>신호경</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 신호경 기자 = 은행권 주택담보대출(주담대) 변동금리의 기준인 코픽스(COFIX·자금조달비용지수)가 한 달 만에 반등했다. ]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/01/12/PYH2026011212390001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316117000002_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[유일에너테크, 55억원 유상증자…대광에 제3자배정]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316119200008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316119200008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:41:24 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 코스닥 상장사 유일에너테크[340930]는 운영자금 55억원을 조달하고자 제3자배정 유상증자를 결정했다고 16일 공시했다.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[[부고] 황성태(한양증권 금융공학본부장)씨 부친상]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316119300008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316119300008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:40:30 +0900</pubDate>
+			<dc:creator>김태종</dc:creator>
+			<description><![CDATA[▲ 황대하 씨 별세, 황성태(한양증권 금융공학본부장)·황정자·황정현 씨 부친상 = 15일, 목포 봉황장례식장 101호실, 발인 17일 오전 8시...]]></description>
+		</item>
+		<item>
+			<title><![CDATA[울산교육청, 유보통합 기반 강화…'영유아 학교' 시범 운영]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316119500057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316119500057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:40:28 +0900</pubDate>
+			<dc:creator>김용태</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 김용태 기자 = 울산시교육청은 내년 2월까지 유치원과 어린이집을 대상으로 &apos;유보통합 실행 기반 강화 사업&apos;을 추진한다고 16일...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2025/01/21/02/PCM20250121000302990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA['내부자들', 3부작 영화로 돌아온다…올해 촬영 계획]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117700005</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117700005</guid>
+			<pubDate>Mon, 16 Mar 2026 15:39:26 +0900</pubDate>
+			<dc:creator>박원희</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 박원희 기자 = 영화 &apos;내부자들&apos;의 앞선 이야기를 다룬 영화가 3부작으로 만들어진다고 제작사 하이브미디어코프가 16일 밝혔다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2024/01/19/47/PCM20240119000047005_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[표] 투자자별 매매동향(16일)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118400008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118400008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:38:39 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(단위:억원)
+]]></description>
+		</item>
+		<item>
+			<title><![CDATA[코스피, 널뛰기 장세 끝 1%대 상승 마감…코스닥은 내려]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118300008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118300008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:38:29 +0900</pubDate>
+			<dc:creator>고은지</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 고은지 기자 = 코스피가 16일 상승과 하락을 오가는 널뛰기 장세 끝에 1%대 상승 마감했다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031602860001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[에쓰오일, 햇살나눔 자원봉사 활동지원금 1억원 전달]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118200057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118200057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:38:20 +0900</pubDate>
+			<dc:creator>장영은</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 장영은 기자 = 에쓰오일은 16일 울산광역시청에서 어려운 이웃 지원과 환경 보호를 위해 울산광역시자원봉사센터에 2026 에쓰오...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2024/12/18/PYH2024121816130005700_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[진주시-농협·경남은행, 우주항공 국가산단 분양 활성화 '맞손']]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117500052</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117500052</guid>
+			<pubDate>Mon, 16 Mar 2026 15:38:07 +0900</pubDate>
+			<dc:creator>박정헌</dc:creator>
+			<description><![CDATA[(진주=연합뉴스) 박정헌 기자 = 경남 진주시는 16일 시청 기업인의 방에서 NH농협은행, BNK경남은행과 &apos;경남 우주항공 국가산업단지 분양 활...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316117500052_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[미술소식] 페로탕 서울, 개관 10주년展·갤러리조은 정다운 개인전]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116400005</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116400005</guid>
+			<pubDate>Mon, 16 Mar 2026 15:38:06 +0900</pubDate>
+			<dc:creator>박의래</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 박의래 기자 = ▲ 페로탕 서울, 개관 10주년 특별전 = 서울 강남구 신사동에 있는 페로탕 서울이 개관 10주년을 맞아 오는...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116400005_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116400005_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116400005_05_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[속보] 李대통령 "스토킹 살해 사건 책임자 감찰하고 엄히 조치"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316119000001</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316119000001</guid>
+			<pubDate>Mon, 16 Mar 2026 15:37:58 +0900</pubDate>
+			<dc:creator>임형섭</dc:creator>
+			<description><![CDATA[(]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/10/PYH2026031004690001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[경남 환경단체 "석탄발전 폐쇄 대책, 풍력 합작법인 설립 제안"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116000052</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116000052</guid>
+			<pubDate>Mon, 16 Mar 2026 15:36:49 +0900</pubDate>
+			<dc:creator>박영민</dc:creator>
+			<description><![CDATA[(창원=연합뉴스) 박영민 기자 = 경남지역 환경단체들이 석탄화력발전소 폐쇄에 따른 고용 불안 대책으로 풍력터빈 민관합작 법인 설립을 제안했다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116000052_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[울주군 "17일 한수원에 신규 원전 자율유치 신청서 제출"(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316077451057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316077451057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:36:49 +0900</pubDate>
+			<dc:creator>장영은</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 장영은 기자 = 울산 울주군은 신규 원자력발전소 건설 후보부지 자율유치 신청서를 17일 한국수력원자력에 제출한다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031609760005700_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031610430005700_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[트럼프 "호르무즈 호위연합 7개국에 요구…참여여부 기억할것"(종합2보)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316044652071</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316044652071</guid>
+			<pubDate>Mon, 16 Mar 2026 15:36:29 +0900</pubDate>
+			<dc:creator>오수진</dc:creator>
+			<description><![CDATA[(워싱턴·서울=연합뉴스) 박성민 특파원 오수진 기자 = 도널드 트럼프 미국 대통령은 대(對)이란 전쟁 16일차인 15일(현지시간) 호르무즈 해협...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/ap/2026/03/16/PAP20260316263601009_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/reuters/2026/03/15/PRU20260315047701009_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[속보] 李대통령, 남양주 스토킹 살해사건에 "당국 대응 더뎠다" 질타]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118600001</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118600001</guid>
+			<pubDate>Mon, 16 Mar 2026 15:36:20 +0900</pubDate>
+			<dc:creator>임형섭</dc:creator>
+			<description><![CDATA[(]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/10/PYH2026031004920001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[다카이치, 통일교·정관계 유착 관련 "정부·당, 조사계획 없다"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115900009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115900009</guid>
+			<pubDate>Mon, 16 Mar 2026 15:36:16 +0900</pubDate>
+			<dc:creator>조성미</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 조성미 기자 = 다카이치 사나에 일본 총리가 세계평화통일가정연합(옛 통일교·이하 가정연합)과 일본 정관계 유착 관계에 대한 새...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115900009_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[외국환시세(3월16일·마감가)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118500002</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118500002</guid>
+			<pubDate>Mon, 16 Mar 2026 15:36:06 +0900</pubDate>
+			<dc:creator>경제부</dc:creator>
+			<description><![CDATA[(15:30)
+]]></description>
+		</item>
+		<item>
+			<title><![CDATA[대전 시민사회단체 "정부는 미국의 파병 요청 거부하라"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316118100063</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316118100063</guid>
+			<pubDate>Mon, 16 Mar 2026 15:36:02 +0900</pubDate>
+			<dc:creator>강수환</dc:creator>
+			<description><![CDATA[(대전=연합뉴스) 강수환 기자 = 이란과 전쟁 중인 미국이 동맹국들에 호르무즈 해협에 군함을 파견하라고 요구한 것에 대해 대전시민사회단체연대회의...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031608660001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[국힘, 정은경 장관 고발…"이물 코로나백신 접종강행 직무유기"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316114500001</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316114500001</guid>
+			<pubDate>Mon, 16 Mar 2026 15:35:48 +0900</pubDate>
+			<dc:creator>김유아</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 김유아 조다운 기자 = 국회 법제사법위원회 소속 국민의힘 의원들은 16일 코로나19 유행 당시 이물 신고가 접수된 백신 접종을...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/06/PYH2026030606580001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[코스닥] 14.67p(1.27%) 내린 1,138.29(장종료)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117400008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117400008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:33:10 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[코스피] 62.61p(1.14%) 오른 5,549.85(장종료)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316117200008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316117200008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:33:02 +0900</pubDate>
+			<dc:creator>증권부</dc:creator>
+			<description><![CDATA[(]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[해법 못 찾는 '종묘 앞 재개발' 갈등…SH 고발에, 유네스코 경고(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316052351005</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316052351005</guid>
+			<pubDate>Mon, 16 Mar 2026 15:32:59 +0900</pubDate>
+			<dc:creator>김예나</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 김예나 기자 = 유네스코 세계유산인 서울 종묘 앞 재개발 사업을 둘러싼 갈등이 장기화하면서 경찰 고발로까지 이어졌다. ]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316052351005_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316052351005_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031610580001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316052351005_05_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031604460000501_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031610590001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031610560001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[유목민 놀이문화 서울서 즐긴다…21일 '대한민국 노마드 축제']]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316112800004</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316112800004</guid>
+			<pubDate>Mon, 16 Mar 2026 15:32:58 +0900</pubDate>
+			<dc:creator>최원정</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 최원정 기자 = 대한전략게임연맹은 &apos;2026 대한민국 노마드 축제&apos;를 오는 21일 오전 11시 은평구 서울기록원 5층 컨퍼런스...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316112800004_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA['대통령 권력 집중' 카자흐 개헌안 국민투표 87% 찬성 통과]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316114900084</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316114900084</guid>
+			<pubDate>Mon, 16 Mar 2026 15:32:18 +0900</pubDate>
+			<dc:creator>박진형</dc:creator>
+			<description><![CDATA[(하노이=연합뉴스) 박진형 특파원 = 중앙아시아 카자흐스탄에서 의회 구조를 개편하고 대통령 권한을 강화하는 헌법 개정안이 국민투표에서 압도적인 ...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/ap/2026/03/15/PAP20260315242201009_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[제주교육청, '4·3평화·인권교육 주간' 3주간 운영]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116600056</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116600056</guid>
+			<pubDate>Mon, 16 Mar 2026 15:32:13 +0900</pubDate>
+			<dc:creator>김호천</dc:creator>
+			<description><![CDATA[(제주=연합뉴스) 김호천 기자 = 제주도교육청은 제주4·3의 역사적 의미를 되새시기 위해 모든 학교에서 &apos;4·3평화·인권교육 주간&apos;을 3주간 운...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116600056_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[글로벌세아그룹, 제지사업 매각 검토…투자안내서 배포하기로]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116100030</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116100030</guid>
+			<pubDate>Mon, 16 Mar 2026 15:31:57 +0900</pubDate>
+			<dc:creator>신선미</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 신선미 기자 = 글로벌세아그룹이 제지사업 매각을 위해 투자자를 물색한다. ]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116100030_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[영상] 호르무즈 통과한 일부 선박들 "추격기 끈채 야밤 운항"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113800704</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113800704</guid>
+			<pubDate>Mon, 16 Mar 2026 15:31:35 +0900</pubDate>
+			<dc:creator>류재갑</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 중동 전쟁 여파로 글로벌 물류 동맥인 호르무즈 해협이 사실상 봉쇄된 채 각국 유조선이 고립된 와중에 그리스 등 일부 국가 선박...]]></description>
+			<media:content url="https://www.youtube.com/embed/rxhWutzu_0w" medium="video" type="video/3gpp">
+				<media:description><![CDATA[[영상] 호르무즈 통과한 일부 선박들 "추격기 끈채 야밤 운항" - 1]]></media:description>
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316113800704_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[외환] 원/달러 환율 3.8원 오른 1,497.5원(15:30 종가)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116700002</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116700002</guid>
+			<pubDate>Mon, 16 Mar 2026 15:30:42 +0900</pubDate>
+			<dc:creator>경제부</dc:creator>
+			<description><![CDATA[(]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2023/08/24/52/PCM20230824000052990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[위니아딤채 근로자들 "광주노동청, 임금체불 수사·대책 마련"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116500054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116500054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:30:35 +0900</pubDate>
+			<dc:creator>정다움</dc:creator>
+			<description><![CDATA[(광주=연합뉴스) 정다움 기자 = 전국금속노동조합 광주전남지부 위니아딤채지회는 16일 &quot;광주지방노동청은 임금체불 관련자를 엄중 처벌하고 실효성 ...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116500054_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[건강보험공단, 20일까지 아르메니아 보건 관계자 연수]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316112500530</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316112500530</guid>
+			<pubDate>Mon, 16 Mar 2026 15:30:18 +0900</pubDate>
+			<dc:creator>성서호</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 성서호 기자 = 국민건강보험공단은 세계은행과 함께 이달 20일까지 닷새간 아르메니아 보건부 및 건강보험 기금 관계자를 대상으로...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316112500530_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[중기부 2차관 "새벽배송, 유통구조 변화속에서 봐야…상생협력"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316112300030</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316112300030</guid>
+			<pubDate>Mon, 16 Mar 2026 15:30:13 +0900</pubDate>
+			<dc:creator>구정모</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 구정모 기자 = 이병권 중소벤처기업부 제2차관은 &quot;새벽배송 문제는 대형마트가 새벽배송을 하느냐 마느냐의 문제로만 볼 것이 아니...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031610920001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[부산 감천항서 기름 유출한 러시아 원양어선 적발]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316116200051</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316116200051</guid>
+			<pubDate>Mon, 16 Mar 2026 15:30:11 +0900</pubDate>
+			<dc:creator>박성제</dc:creator>
+			<description><![CDATA[(부산=연합뉴스) 박성제 기자 = 부산해양경찰서는 감천항 해상에 기름 약 50ℓ를 유출한 러시아 원양어선을 적발했다고 16일 밝혔다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316116200051_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[속초시, 고려대와 데이터 기반 정책연구 협력…AI 행정혁신 추진]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115700062</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115700062</guid>
+			<pubDate>Mon, 16 Mar 2026 15:30:02 +0900</pubDate>
+			<dc:creator>류호준</dc:creator>
+			<description><![CDATA[(속초=연합뉴스) 류호준 기자 = 강원 속초시가 고려대학교와 협력해 데이터 기반 행정과 인공지능 전환(AX)을 통한 정책 혁신에 나선다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115700062_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115700062_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[가족돌봄·고립은둔청년 지원 청년미래센터 올해 8개로 확대]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316049500530</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316049500530</guid>
+			<pubDate>Mon, 16 Mar 2026 15:30:00 +0900</pubDate>
+			<dc:creator>김잔디</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 김잔디 기자 = 가족돌봄·고립은둔청년 등 위기아동청년을 지원하기 위한 청년미래센터가 올해 4개 추가돼 8개로 늘어난다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2023/06/13/49/PCM20230613000249530_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[국내 이어 외국 교과서도…"아프리카 편견 서술 시정" 답변]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316112000371</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316112000371</guid>
+			<pubDate>Mon, 16 Mar 2026 15:28:19 +0900</pubDate>
+			<dc:creator>성도현</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 성도현 기자 = 사이버 외교사절단 반크(단장 박기태)의 &apos;아프리카 바로 알리기 프로젝트&apos;가 국내 교과서에 이어 이번에는 외국 ...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316112000371_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[노동단체 "전북 로봇특구 중처법 유예 법안은 노동 개악"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316114600055</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316114600055</guid>
+			<pubDate>Mon, 16 Mar 2026 15:28:01 +0900</pubDate>
+			<dc:creator>정경재</dc:creator>
+			<description><![CDATA[(전주=연합뉴스) 정경재 기자 = 전북지역 노동단체 등으로 구성된 체제전환전북네트워크는 16일 성명을 내고 &quot;노동자의 생명과 안전은 유예 대상이...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2017/09/01/01/C0A8CA3C0000015E3C6D18900002CB9E_P2.jpeg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[월드컵 3개월 남았는데…아직도 홍명보 괴롭히는 '중원 방정식']]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115100007</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115100007</guid>
+			<pubDate>Mon, 16 Mar 2026 15:27:55 +0900</pubDate>
+			<dc:creator>안홍석</dc:creator>
+			<description><![CDATA[(천안=연합뉴스) 안홍석 기자 = 2026 북중미 월드컵을 불과 3개월 앞둔 시점에도 홍명보 한국 축구대표팀 감독의 &apos;중원 고민&apos;은 계속되고 있...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031611790001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/etc/epa/2026/02/23/PEP20260223137901009_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2025/07/15/PYH2025071519440001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[대구소식] 결핵예방의날 앞두고 온라인 퀴즈 이벤트]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115000053</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115000053</guid>
+			<pubDate>Mon, 16 Mar 2026 15:27:37 +0900</pubDate>
+			<dc:creator>이강일</dc:creator>
+			<description><![CDATA[(대구=연합뉴스) 대구시 감염병관리지원단은 제16회 결핵예방의날(24일)을 앞두고 시민들의 결핵 예방 인식을 높이기 위한 온라인 퀴즈 이벤트를 ...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115000053_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[코스콤 "AI 인재 육성에 사활"…2026년 연수 로드맵 공개]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115500008</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115500008</guid>
+			<pubDate>Mon, 16 Mar 2026 15:26:26 +0900</pubDate>
+			<dc:creator>황철환</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 황철환 기자 = 코스콤은 급변하는 기술 환경에 대응하고 미래 성장 동력을 확보하기 위해 &apos;2026년도 연수계획&apos;을 확정하고 본...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115500008_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[광양 선박공장서 사망사고 잇따라…1월에 이어 40대 근로자 숨져(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316064851054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316064851054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:26:21 +0900</pubDate>
+			<dc:creator>천정인</dc:creator>
+			<description><![CDATA[(광양=연합뉴스) 천정인 기자 = 전남 광양시 한 선박 제조공장에서 사망 사고가 잇따라 발생했다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2019/02/08/84/PCM20190208000284990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[은평구, 불광동에 치유형 정원 '향림 웰니스 가든' 만든다]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316115600004</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316115600004</guid>
+			<pubDate>Mon, 16 Mar 2026 15:26:05 +0900</pubDate>
+			<dc:creator>정준영</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 정준영 기자 = 은평구(구청장 김미경)는 주민들에게 건강과 치유를 제공하는 도시정원과 공동체 공간인 &apos;향림 웰니스 가든&apos;을 불...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115600004_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316115600004_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[영상] 케데헌 오스카 2관왕 '금빛 혼문'…"K팝 좋아한다 놀림받았는데"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108800704</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108800704</guid>
+			<pubDate>Mon, 16 Mar 2026 15:24:44 +0900</pubDate>
+			<dc:creator>김화영</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 넷플릭스 애니메이션 영화 &apos;케이팝 데몬 헌터스&apos;가 올해 미국 아카데미 시상식에서 장편 애니메이션상과 주제가상을 받았습니다. ]]></description>
+			<media:content url="https://www.youtube.com/embed/hhS54I3Wxvg" medium="video" type="video/3gpp">
+				<media:description><![CDATA[[영상] 케데헌 오스카 2관왕 '금빛 혼문'…"K팝 좋아한다 놀림받았는데" - 1]]></media:description>
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108800704_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA['케데헌' 수상 소감 '뚝' 자른 오스카…"K팝 팬들 분노할 것"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316114200075</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316114200075</guid>
+			<pubDate>Mon, 16 Mar 2026 15:22:32 +0900</pubDate>
+			<dc:creator>김경윤</dc:creator>
+			<description><![CDATA[(로스앤젤레스=연합뉴스) 김경윤 특파원 = 애니메이션 영화 &apos;케이팝 데몬 헌터스&apos;(이하 케데헌)가 아카데미 시상식에서 2관왕을 차지했지만, 주최...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/ap/2026/03/16/PAP20260316339501009_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA['전통과 현대를 잇다' 양구군, 2026 전국짚풀공예공모전 개최]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113400062</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113400062</guid>
+			<pubDate>Mon, 16 Mar 2026 15:19:14 +0900</pubDate>
+			<dc:creator>양지웅</dc:creator>
+			<description><![CDATA[(양구=연합뉴스) 양지웅 기자 = 강원 양구군 선사·근현대사박물관은 민족 고유의 미풍양속을 계승하고 짚풀공예의 예술적 가치를 조명하고자 &apos;202...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316113400062_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[박진희 "충북도의회 징계는 정치 공세"…민·형사 대응 예고]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113300064</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113300064</guid>
+			<pubDate>Mon, 16 Mar 2026 15:18:41 +0900</pubDate>
+			<dc:creator>전창해</dc:creator>
+			<description><![CDATA[(청주=연합뉴스) 전창해 기자 = 박진희(더불어민주당) 충북도의원은 16일 자신에 대한 충북도의회 징계 결정과 관련해 &quot;정치 공세에 굴하지 않겠...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316113300064_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[창원시립상복공원 제3봉안당 20일 개관…국가유공자 예우 공간도]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113500052</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113500052</guid>
+			<pubDate>Mon, 16 Mar 2026 15:18:22 +0900</pubDate>
+			<dc:creator>김선경</dc:creator>
+			<description><![CDATA[(창원=연합뉴스) 김선경 기자 = 경남 창원시는 오는 20일 창원시립상복공원 제3봉안당을 정식 개관·운영한다고 16일 밝혔다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316113500052_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[전북도, 지반탐사로 515개 지하 공동 발견…복구 완료]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113000055</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113000055</guid>
+			<pubDate>Mon, 16 Mar 2026 15:17:49 +0900</pubDate>
+			<dc:creator>임채두</dc:creator>
+			<description><![CDATA[(전주=연합뉴스) 임채두 기자 = 전북특별자치도는 2022∼2025년 도내 1천497㎞ 구간의 상·하수관로를 대상으로 지반탐사를 벌여 515개의...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2024/01/22/88/PCM20240122000188990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[전남도, 전남광주통합특별법 시행령안 준비 착수]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316114000054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316114000054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:16:36 +0900</pubDate>
+			<dc:creator>형민우</dc:creator>
+			<description><![CDATA[(무안=연합유스) 형민우 기자 = 전남도는 16일 도청 서재필실에서 황기연 전남지사 권한대행 주재로 &apos;전남광주통합특별시 설치를 위한 특별법 시행...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316114000054_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[올해 첫 대형산불 함양 산불 낸 범인은 '울산 봉대산 불다람쥐']]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316111900052</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316111900052</guid>
+			<pubDate>Mon, 16 Mar 2026 15:16:33 +0900</pubDate>
+			<dc:creator>정종호</dc:creator>
+			<description><![CDATA[(창원=연합뉴스) 정종호 기자 = 올해 첫 대형 산불로 기록된 경남 함양 산불 방화 피의자가 과거 울산 동구 봉대산에서 17년간 불을 질렀던 범...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/02/23/PYH2026022307680005200_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316111900052_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[광주소식] 대학생 보조강사, 초등학교 66곳 배치]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113900054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113900054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:16:16 +0900</pubDate>
+			<dc:creator>여운창</dc:creator>
+			<description><![CDATA[(광주=연합뉴스) 광주시교육청은 16일 광주교육대학 학생들이 관내 초등학생들의 기초학력 학습을 돕는 대학생 보조 강사제를 운용한다고 밝혔다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316113900054_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[프로야구 인천전적] 삼성 8-0 SSG]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316113700007</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316113700007</guid>
+			<pubDate>Mon, 16 Mar 2026 15:15:40 +0900</pubDate>
+			<dc:creator>김동찬</dc:creator>
+			<description><![CDATA[▲ 인천전적(16일)]]></description>
+		</item>
+		<item>
+			<title><![CDATA["美석유기업들, 백악관에 '유가 더 상승 우려' 견해 전달"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316112600009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316112600009</guid>
+			<pubDate>Mon, 16 Mar 2026 15:14:36 +0900</pubDate>
+			<dc:creator>황정우</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 황정우 기자 = 미국 석유기업 최고경영자(CEO)들이 백악관에 호르무즈 해협 봉쇄가 유가를 더 끌어올릴 수 있다는 견해를 전달...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316112600009_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA['끝장 경쟁' 강조한 홍명보 "5월에 제일 잘하는 선수 데려간다"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316111600007</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316111600007</guid>
+			<pubDate>Mon, 16 Mar 2026 15:14:17 +0900</pubDate>
+			<dc:creator>이영호</dc:creator>
+			<description><![CDATA[(서울·천안=연합뉴스) 이영호 안홍석 기자 = &quot;마지막 과정으로 가고는 있지만 지금은 완성됐다고 말할 수 없다.&quot; ]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031611740001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031611760001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2025/11/18/PYH2025111818480001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2025/11/14/PYH2025111417310001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031611660001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[현대건설, 세계적 인프라 건설기업과 에너지 사업 맞손]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316112700003</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316112700003</guid>
+			<pubDate>Mon, 16 Mar 2026 15:14:15 +0900</pubDate>
+			<dc:creator>임기창</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 임기창 기자 = 현대건설이 유럽을 대표하는 세계적 인프라 건설기업과 손잡고 대형 인프라와 미래 유망 에너지 사업 분야 경쟁력 ...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316112700003_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[울산 창업 '온 미팅' 행사…청년 사업가들과 소통]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260315051400057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260315051400057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:10:01 +0900</pubDate>
+			<dc:creator>김근주</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 김근주 기자 = 울산시는 16일 창업 생태계 활성화 방안을 논의하기 위해 &apos;창업 온(ON) 미팅&apos; 행사를 열었다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2015/03/14/01/C0A8CA3D0000014C17325827000370A8_P2.jpeg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[KT 윤종수 사외이사 연임 고사…이사회 공석 가능성]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316110800017</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316110800017</guid>
+			<pubDate>Mon, 16 Mar 2026 15:09:52 +0900</pubDate>
+			<dc:creator>박형빈</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 박형빈 기자 = KT[030200] ESG위원장을 맡고 있는 윤종수 사외이사(김앤장법률사무소 환경고문)가 오는 31일 정기 주...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/11/PYH2026031117230001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[부산시민도서관, 2026년 원북원부산 올해의 책 3권 선정]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316112100051</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316112100051</guid>
+			<pubDate>Mon, 16 Mar 2026 15:09:41 +0900</pubDate>
+			<dc:creator>조정호</dc:creator>
+			<description><![CDATA[(부산=연합뉴스) 조정호 기자 = 부산시립시민도서관은 2026년 원북원부산 올해의 책으로 어린이 부문 &apos;진짜 가족 맞아요&apos;, 청소년 부문 &apos;신상...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316112100051_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[조한결 "'미쓰홍'서 첫 서브남주 맡아…차기 로코킹 꿈꿔요"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316100600005</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316100600005</guid>
+			<pubDate>Mon, 16 Mar 2026 15:09:30 +0900</pubDate>
+			<dc:creator>고가혜</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 고가혜 기자 = &quot;처음 오디션을 볼 때만 해도 &apos;알벗 오&apos;라는 캐릭터가 비중이 이렇게 큰 줄 몰랐어요. 캐스팅됐을 땐 마냥 좋...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316100600005_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316100600005_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316100600005_03_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316100600005_04_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[이재경 대전시의원 "개별난방 전환비, 도시가스 공급사가 내야"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316111200063</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316111200063</guid>
+			<pubDate>Mon, 16 Mar 2026 15:09:09 +0900</pubDate>
+			<dc:creator>박주영</dc:creator>
+			<description><![CDATA[(대전=연합뉴스) 박주영 기자 = 노후 공동주택의 개별난방 전환에 드는 설치비용을 주민이 아닌 도시가스 공급사가 부담해야 한다는 주장이 제기됐다...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316111200063_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[공사 답사 차량 3대가 대로변 주차…6중 추돌로 1명 사망(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316081751057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316081751057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:09:02 +0900</pubDate>
+			<dc:creator>장지현</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 장지현 기자 = 공사 사전답사를 위해 대로변에 주차한 차량 때문에 연쇄 추돌 사고가 발생해 1명이 숨지고 2명이 다쳤다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2021/07/19/53/PCM20210719000053990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[나주시 관광객 숙박 인센티브 '1박 2득' 2천명 넘어]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316111700054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316111700054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:07:27 +0900</pubDate>
+			<dc:creator>장아름</dc:creator>
+			<description><![CDATA[(나주=연합뉴스) 장아름 기자 = 전남 나주시는 &apos;2026 나주방문의 해&apos;를 맞아 추진한 숙박 관광객 인센티브 사업 신청자가 2천명을 넘었다고 ...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316111700054_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[중랑구, 올해 교육경비보조금 160억원 지원]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316111400004</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316111400004</guid>
+			<pubDate>Mon, 16 Mar 2026 15:06:53 +0900</pubDate>
+			<dc:creator>정준영</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 정준영 기자 = 중랑구(구청장 류경기)는 교육의 공공성을 강화하고 미래 인재를 양성하기 위해 2026년 교육경비보조금 160억...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316111400004_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[사업특혜 대가 금품수수 혐의…국힘 서울시의원 검찰 송치]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316107800004</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316107800004</guid>
+			<pubDate>Mon, 16 Mar 2026 15:06:36 +0900</pubDate>
+			<dc:creator>조현영</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 조현영 기자 = 사업상 특혜를 약속하고 금품을 수수한 혐의를 받는 서울시의원과 전 구청 공무원이 검찰에 넘겨졌다. ]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2025/07/25/57/PCM20250725000057990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[광주 학동·운림동 10분간 정전…승강기 갇힌 주민 2명 구조]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316111300054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316111300054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:06:23 +0900</pubDate>
+			<dc:creator>정다움</dc:creator>
+			<description><![CDATA[(광주=연합뉴스) 정다움 기자 = 16일 오후 1시 9분께 광주 동구 학동·운림동 일대 아파트 단지·상가에서 정전이 발생했다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2017/04/07/01/C0A8CA3D0000015B46310C860015B265_P2.jpeg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[전남 영암 거점형 늘봄센터 개관…초과 돌봄 수요 대응]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316110700054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316110700054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:04:09 +0900</pubDate>
+			<dc:creator>여운창</dc:creator>
+			<description><![CDATA[(영암=연합뉴스) 여운창 기자 = 전남 영암지역 거점형 늘봄센터인 &apos;영암늘봄꿈터&apos;가 16일 전남 영암 삼호서초 별관동에 문을 열었다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316110700054_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[전북현대, 18일 홈경기서 대학생 응원 이벤트…경품 600개 쏜다]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316109500055</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316109500055</guid>
+			<pubDate>Mon, 16 Mar 2026 15:03:53 +0900</pubDate>
+			<dc:creator>최영수</dc:creator>
+			<description><![CDATA[(전주=연합뉴스) 최영수 기자 = 프로축구 K리그1 전북현대는 오는 18일 홈경기에서 대학생 응원 이벤트와 팬 참여 프로그램을 진행한다고 16일...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2025/05/06/PYH2025050609340005500_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[대전서 27일 BBC 심포니 오케스트라 공연…손열음 협연]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316110300063</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316110300063</guid>
+			<pubDate>Mon, 16 Mar 2026 15:02:50 +0900</pubDate>
+			<dc:creator>강수환</dc:creator>
+			<description><![CDATA[(대전=연합뉴스) 강수환 기자 = 대전예술의전당은 오는 27일 아트홀에서 피아니스트 손열음이 협연하는 BBC 심포니 오케스트라 내한 공연이 열린...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316110300063_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA["자립준비 청년 정착지원" 대구시·삼성전자·대구상의 협약]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108400053</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108400053</guid>
+			<pubDate>Mon, 16 Mar 2026 15:02:27 +0900</pubDate>
+			<dc:creator>이강일</dc:creator>
+			<description><![CDATA[(대구=연합뉴스) 이강일 기자 = 대구시는 16일 자립준비 청년의 안정적인 사회 정착과 취업 지원을 강화하려고 삼성전자, 대구상의와 &apos;희망디딤돌...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108400053_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[日 노토지진으로 100㎞ 해안선 솟구쳤다…"세계 최장급 융기"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316107600009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316107600009</guid>
+			<pubDate>Mon, 16 Mar 2026 15:02:25 +0900</pubDate>
+			<dc:creator>최이락</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 최이락 기자 = 2024년 1월 수백명의 사망자가 발생했던 일본 노토반도 강진으로 인한 해안 융기(솟아오름) 현상이 반도 북부...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316107600009_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316107600009_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[인도 대법, 생리휴가 도입 청원 기각…"여성에 되레 손해"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316104400009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316104400009</guid>
+			<pubDate>Mon, 16 Mar 2026 15:01:37 +0900</pubDate>
+			<dc:creator>유창엽</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 유창엽 기자 = 인도 대법원이 여성 생리휴가의 전국적 도입 청원을 기각했다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/etc/epa/2019/05/01/PEP20190501130001848_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[주철현 "전남광주 특별시에 내외국인 카지노·경정장 유치"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316110400054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316110400054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:01:27 +0900</pubDate>
+			<dc:creator>손상원</dc:creator>
+			<description><![CDATA[(여수=연합뉴스) 손상원 기자 = 더불어민주당 전남광주 통합 특별시장 경선에 나선 주철현(전남 여수갑) 의원은 16일 내·외국인 겸용 카지노와 ...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2025/08/01/25/PCM20250801000025054_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[광주·전남 시민단체 "민주당, 정치개혁 외면"…상경투쟁 예고]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316110200054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316110200054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:01:09 +0900</pubDate>
+			<dc:creator>김혜인</dc:creator>
+			<description><![CDATA[(광주=연합뉴스) 김혜인 기자 = 광주·전남 시민단체가 더불어민주당의 정치개혁 외면을 규탄하며 선거제도 개혁과 개헌 추진을 촉구했다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/02/09/PYH2026020912400001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[울산 중구, 3월 말까지 삼호교에 임시 보행로 조성]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108700057</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108700057</guid>
+			<pubDate>Mon, 16 Mar 2026 15:00:57 +0900</pubDate>
+			<dc:creator>김근주</dc:creator>
+			<description><![CDATA[(울산=연합뉴스) 김근주 기자 = 울산시 중구는 주민 편의와 통행 안전을 위해 삼호교(차도교) 차로 폭을 조정해 임시 보행로를 만든다고 16일 ...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108700057_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[전남경찰, '외국인 노동자 인권침해 대응' 특별형사활동 돌입]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108900054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108900054</guid>
+			<pubDate>Mon, 16 Mar 2026 15:00:31 +0900</pubDate>
+			<dc:creator>천정인</dc:creator>
+			<description><![CDATA[(무안=연합뉴스) 천정인 기자 = 전남 고흥군 굴 양식장에서 외국인 계절근로자 인권 침해 의혹이 불거지는 등 외국인 인권 침해 사례가 잇따르자 ...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2020/12/30/95/PCM20201230000295990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[세계의 날씨(3월16일)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316109000009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316109000009</guid>
+			<pubDate>Mon, 16 Mar 2026 15:00:26 +0900</pubDate>
+			<dc:creator>국제뉴스공용1</dc:creator>
+			<description><![CDATA[(15:00)
+]]></description>
+		</item>
+		<item>
+			<title><![CDATA[복지부, 사회복지공무원단체와 간담회…통합돌봄 적극 협조 요청]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316034300530</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316034300530</guid>
+			<pubDate>Mon, 16 Mar 2026 15:00:02 +0900</pubDate>
+			<dc:creator>고유선</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 고유선 기자 = 보건복지부는 이스란 제1차관 주재로 16일 전국 시도, 시군구 및 읍면동 사회복지공무원으로 구성된 한국사회복지...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316034300530_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[해경청, 헬기 조종사 직접 양성 2년차 돌입…군 제외 유일]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316094900065</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316094900065</guid>
+			<pubDate>Mon, 16 Mar 2026 15:00:01 +0900</pubDate>
+			<dc:creator>강종구</dc:creator>
+			<description><![CDATA[(인천=연합뉴스) 강종구 기자 = 해양경찰청은 &apos;헬기 조종사 자체 양성&apos; 2기 교육을 시작한다고 16일 밝혔다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2024/12/11/14/PCM20241211000114990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[6월부터 '체감 38도·기온 39도 이상' 예상시 '폭염중대경보']]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316085300530</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316085300530</guid>
+			<pubDate>Mon, 16 Mar 2026 15:00:00 +0900</pubDate>
+			<dc:creator>이재영</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 이재영 기자 = 올여름 신설될 &apos;폭염중대경보&apos;는 &apos;일 최고 체감온도가 38도 이상이거나 일 최고기온이 39도 이상&apos;인 상황이 ...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2025/07/09/PYH2025070913520001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2024/08/01/PYH2024080109370005300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[질병·날씨 등 생활위험 무료 보장 '상생보험' 3분기 출시]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316082600002</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316082600002</guid>
+			<pubDate>Mon, 16 Mar 2026 15:00:00 +0900</pubDate>
+			<dc:creator>강수련</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 강수련 기자 = 경남·경북·광주·전남·제주·충북 등 6개 지방자치단체에서 지역 소상공인·취약계층을 대상으로 하는 무료 상생보험...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2019/01/18/62/PCM20190118000262990_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316082600002_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA['尹관저 이전 의혹' 윤한홍 압수수색…종합특검 '1호 강제수사'(종합2보)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316021152004</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316021152004</guid>
+			<pubDate>Mon, 16 Mar 2026 14:56:42 +0900</pubDate>
+			<dc:creator>박재현</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 박재현 전재훈 기자 = 3대 특별검사 이후 남은 의혹들을 수사하는 2차 종합특검팀이 &apos;관저 이전 의혹&apos;과 관련해 윤한홍 국민의...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031602490001301_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2026/03/16/PYH2026031607500001300_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/yna/YH/2022/03/20/PYH2022032008130001300_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[금천구, 독산3동 일대에 맞춤형 범죄예방디자인 적용]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108300004</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108300004</guid>
+			<pubDate>Mon, 16 Mar 2026 14:56:33 +0900</pubDate>
+			<dc:creator>정준영</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 정준영 기자 = 금천구(구청장 유성훈)는 독산3동 160-6번지 일대에서 범죄예방디자인 사업을 벌인다고 16일 밝혔다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108300004_03_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108300004_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[제14회 제주4·3평화문학상 시 부문에 신유담 작가]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108100056</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108100056</guid>
+			<pubDate>Mon, 16 Mar 2026 14:55:47 +0900</pubDate>
+			<dc:creator>전지혜</dc:creator>
+			<description><![CDATA[(제주=연합뉴스) 전지혜 기자 = 제14회 제주4·3평화문학상 시 부문 당선작으로 신유담 작가의 &apos;현무암의 폐활량&apos;이 선정됐다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108100056_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[광주시, 어린이놀이시설·산단 등 토양오염 실태조사]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108200054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108200054</guid>
+			<pubDate>Mon, 16 Mar 2026 14:55:20 +0900</pubDate>
+			<dc:creator>장덕종</dc:creator>
+			<description><![CDATA[(광주=연합뉴스) 장덕종 기자 = 광주시 보건환경연구원은 16일 토양 생태계 보존과 시민 건강 보호를 위해 토양오염 실태조사를 한다고 밝혔다.]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108200054_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[병사 잃은 마크롱, 이란 대통령과 통화…"주변국 공격 중단하라"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316107400009</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316107400009</guid>
+			<pubDate>Mon, 16 Mar 2026 14:54:45 +0900</pubDate>
+			<dc:creator>강건택</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 강건택 기자 = 최근 중동 전쟁 여파로 자국군 병사를 잃은 프랑스의 에마뉘엘 마크롱 대통령이 15일(현지시간) 마수드 페제시키...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/etc/af/2026/03/15/PAF20260315290901009_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/photo/etc/af/2026/03/13/PAF20260313329001009_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[게시판] 팬스타 미라클 크루즈, 아시아 디자인상 수상]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316108000051</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316108000051</guid>
+			<pubDate>Mon, 16 Mar 2026 14:54:10 +0900</pubDate>
+			<dc:creator>김상현</dc:creator>
+			<description><![CDATA[▲ 팬스타그룹은 국내에서 처음 건조한 크루즈 페리의 BI(브랜드 아이덴티티) &apos;미라클 크루즈&apos;(Miracle cruise)가 아시아 디자인 프라...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316108000051_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA['이별 통보' 연인 모텔에 감금하고 휴대전화 빼앗은 30대 송치]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316107900062</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316107900062</guid>
+			<pubDate>Mon, 16 Mar 2026 14:54:04 +0900</pubDate>
+			<dc:creator>류호준</dc:creator>
+			<description><![CDATA[(강릉=연합뉴스) 류호준 기자 = 이별 통보한 연인을 모텔에 감금하고 휴대전화까지 빼앗은 30대가 구속 상태로 검찰에 넘겨졌다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2025/11/05/38/PCM20251105000038990_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[이병훈, 전남광주특별시장 민주당 경선 불참…6명 체제(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316098651054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316098651054</guid>
+			<pubDate>Mon, 16 Mar 2026 14:53:50 +0900</pubDate>
+			<dc:creator>박철홍</dc:creator>
+			<description><![CDATA[(광주=연합뉴스) 박철홍 기자 = 더불어민주당 전남광주통합특별시장 경선에 출마했던 이병훈 민주당 호남발전특위 수석 부위원장은 16일 경선 불참을...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316098651054_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[광주·전남 통합 25조 금고 운영 방식·지정 시기 주목]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316107300054</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316107300054</guid>
+			<pubDate>Mon, 16 Mar 2026 14:52:12 +0900</pubDate>
+			<dc:creator>장아름</dc:creator>
+			<description><![CDATA[(광주·무안=연합뉴스) 장아름 기자 = 광주·전남 행정통합이 가시화되면서 오는 7월 새롭게 출범할 전남광주통합특별시의 금고 운영에 대한 관심도 ...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2020/09/15/09/PCM20200915000009054_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[이강덕 경북도지사 예비후보 "이명박 전 대통령이 응원"]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316099900053</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316099900053</guid>
+			<pubDate>Mon, 16 Mar 2026 14:52:02 +0900</pubDate>
+			<dc:creator>한무선</dc:creator>
+			<description><![CDATA[(대구=연합뉴스) 한무선 기자 = 이강덕 국민의힘 경북도지사 예비후보는 이명박 전 대통령이 자신을 지지하며 응원했다고 16일 밝혔다.
+]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316099900053_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[[방송소식] '왕사남' 천만 주역 장항준·유해진, '손석희의 질문들' 출연]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316106500005</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316106500005</guid>
+			<pubDate>Mon, 16 Mar 2026 14:51:27 +0900</pubDate>
+			<dc:creator>장진리</dc:creator>
+			<description><![CDATA[(서울=연합뉴스) 장진리 기자 = ▲ &apos;왕과 사는 남자&apos; 장항준 감독·유해진, &apos;손석희의 질문들&apos; 출연 = MBC는 관객 1천300만 명을 돌파...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316106500005_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316106500005_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316106500005_03_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+		<item>
+			<title><![CDATA[남원시, 값싸고 서비스 좋은 '착한 업소'에 각종 혜택]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260316106700055</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260316106700055</guid>
+			<pubDate>Mon, 16 Mar 2026 14:50:40 +0900</pubDate>
+			<dc:creator>백도인</dc:creator>
+			<description><![CDATA[(남원=연합뉴스) 백도인 기자 = 전북 남원시는 합리적인 가격에 질 높은 서비스를 제공하는 &apos;착한 가격 업소&apos;를 선정해 다양한 혜택을 준다고 1...]]></description>
+			<media:content url="https://img.yna.co.kr/photo/cms/2023/12/21/26/PCM20231221000026055_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
+	</channel>
 </rss>
