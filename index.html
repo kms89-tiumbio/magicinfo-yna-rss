@@ -1,68 +1,189 @@
-<script>
-  function updateClock() {
-    var now = new Date();
-    var yyyy = now.getFullYear();
-    var mm = String(now.getMonth() + 1).padStart(2, '0');
-    var dd = String(now.getDate()).padStart(2, '0');
-    var hh = String(now.getHours()).padStart(2, '0');
-    var mi = String(now.getMinutes()).padStart(2, '0');
-    document.getElementById('nowTime').textContent = yyyy + '-' + mm + '-' + dd + ' ' + hh + ':' + mi;
-  }
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>연합뉴스 주요 뉴스</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: #04152d;
+      color: #ffffff;
+      font-family: Arial, "Malgun Gothic", sans-serif;
+    }
 
-  function stripHtml(str) {
-    var div = document.createElement('div');
-    div.innerHTML = str;
-    return div.textContent || div.innerText || '';
-  }
+    .wrap {
+      box-sizing: border-box;
+      width: 100%;
+      height: 100%;
+      padding: 24px;
+      background: linear-gradient(180deg, #06142b 0%, #04152d 100%);
+    }
 
-  function escapeHtml(str) {
-    return str
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;')
-      .replace(/'/g, '&#39;');
-  }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
 
-  function loadRSS() {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://kms89-tiumbio.github.io/magicinfo-yna-rss/rss.xml?_=' + new Date().getTime(), true);
+    .title {
+      font-size: 28px;
+      font-weight: bold;
+    }
 
-    xhr.onreadystatechange = function () {
-      if (xhr.readyState === 4 && xhr.status === 200) {
-        var parser = new DOMParser();
-        var xml = parser.parseFromString(xhr.responseText, 'text/xml');
-        var items = xml.getElementsByTagName('item');
-        var list = document.getElementById('newsList');
-        list.innerHTML = '';
+    .time {
+      font-size: 14px;
+      color: #d0d8e6;
+    }
 
-        for (var i = 0; i < items.length && i < 8; i++) {
-          var item = items[i];
-          var titleNode = item.getElementsByTagName('title')[0];
-          var descNode = item.getElementsByTagName('description')[0];
+    .board {
+      box-sizing: border-box;
+      width: 100%;
+      height: calc(100% - 60px);
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,0.12);
+      background: rgba(255,255,255,0.04);
+      padding: 20px;
+      overflow: hidden;
+    }
 
-          var title = titleNode ? titleNode.textContent.trim() : '';
-          var desc = descNode ? descNode.textContent.trim() : '';
+    .news-item {
+      padding: 16px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
 
-          var li = document.createElement('li');
-          li.className = 'news-item';
-          li.innerHTML =
-            '<div class="badge">NEWS</div>' +
-            '<div class="content">' +
-            '<div class="headline">' + escapeHtml(title) + '</div>' +
-            '<div class="desc">' + escapeHtml(stripHtml(desc)) + '</div>' +
-            '</div>';
+    .news-item:last-child {
+      border-bottom: none;
+    }
 
-          list.appendChild(li);
+    .headline {
+      font-size: 22px;
+      font-weight: bold;
+      line-height: 1.4;
+      margin-bottom: 6px;
+    }
+
+    .desc {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #d0d8e6;
+    }
+
+    .error {
+      color: #ffb4b4;
+      font-size: 18px;
+      line-height: 1.6;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="header">
+      <div class="title">연합뉴스 주요 뉴스</div>
+      <div class="time" id="nowTime">--:--</div>
+    </div>
+
+    <div class="board" id="newsList">
+      불러오는 중...
+    </div>
+  </div>
+
+  <script>
+    function updateClock() {
+      var now = new Date();
+      var yyyy = now.getFullYear();
+      var mm = ('0' + (now.getMonth() + 1)).slice(-2);
+      var dd = ('0' + now.getDate()).slice(-2);
+      var hh = ('0' + now.getHours()).slice(-2);
+      var mi = ('0' + now.getMinutes()).slice(-2);
+      document.getElementById('nowTime').innerHTML = yyyy + '-' + mm + '-' + dd + ' ' + hh + ':' + mi;
+    }
+
+    function stripHtml(html) {
+      var div = document.createElement('div');
+      div.innerHTML = html;
+      return div.textContent || div.innerText || '';
+    }
+
+    function escapeHtml(text) {
+      return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function showError(msg) {
+      document.getElementById('newsList').innerHTML =
+        '<div class="error">' + escapeHtml(msg) + '</div>';
+    }
+
+    function loadRSS() {
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'https://kms89-tiumbio.github.io/magicinfo-yna-rss/rss.xml?ts=' + new Date().getTime(), true);
+
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4) {
+          if (xhr.status !== 200) {
+            showError('RSS를 불러오지 못했습니다.\nHTTP Status: ' + xhr.status);
+            return;
+          }
+
+          try {
+            var parser = new DOMParser();
+            var xml = parser.parseFromString(xhr.responseText, 'text/xml');
+            var items = xml.getElementsByTagName('item');
+            var html = '';
+            var count = items.length < 8 ? items.length : 8;
+            var i;
+
+            if (count === 0) {
+              showError('RSS 항목이 없습니다.');
+              return;
+            }
+
+            for (i = 0; i < count; i++) {
+              var item = items[i];
+              var titleNode = item.getElementsByTagName('title')[0];
+              var descNode = item.getElementsByTagName('description')[0];
+
+              var title = titleNode ? titleNode.textContent : '';
+              var desc = descNode ? descNode.textContent : '';
+
+              title = escapeHtml(title);
+              desc = escapeHtml(stripHtml(desc));
+
+              html += ''
+                + '<div class="news-item">'
+                +   '<div class="headline">' + title + '</div>'
+                +   '<div class="desc">' + desc + '</div>'
+                + '</div>';
+            }
+
+            document.getElementById('newsList').innerHTML = html;
+          } catch (e) {
+            showError('스크립트 오류: ' + e.message);
+          }
         }
-      }
-    };
+      };
 
-    xhr.send();
-  }
+      xhr.onerror = function () {
+        showError('네트워크 오류가 발생했습니다.');
+      };
 
-  updateClock();
-  loadRSS();
-  setInterval(updateClock, 1000);
-  setInterval(loadRSS, 300000);
-</script>
+      xhr.send();
+    }
+
+    updateClock();
+    loadRSS();
+    setInterval(updateClock, 1000);
+    setInterval(loadRSS, 300000);
+  </script>
+</body>
+</html>
