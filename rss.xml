@@ -9,8 +9,20 @@
 		<copyright><![CDATA[저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지]]></copyright>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-		<lastBuildDate>Sun, 22 Mar 2026 03:34:55 +0900</lastBuildDate>
-		<pubDate>Sun, 22 Mar 2026 03:34:55 +0900</pubDate>
+		<lastBuildDate>Sun, 22 Mar 2026 04:36:28 +0900</lastBuildDate>
+		<pubDate>Sun, 22 Mar 2026 04:36:28 +0900</pubDate>
+		<item>
+			<title><![CDATA[국토부 셧다운에 美공항 혼잡 확대…트럼프 "ICE 투입" 野압박(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260322000851071</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260322000851071</guid>
+			<pubDate>Sun, 22 Mar 2026 04:36:28 +0900</pubDate>
+			<dc:creator>이유미</dc:creator>
+			<description><![CDATA[(워싱턴=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령은 21일(현지시간) 민주당이 공항 관련 예산에 즉각 합의하지 않을 경우 오는 2...]]></description>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/22/AKR20260322000851071_01_i_P2.jpg" type="image/jpeg">
+			</media:content>
+			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/03/22/AKR20260322000851071_02_i_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
 		<item>
 			<title><![CDATA[이스라엘군 참모총장 "대이란 작전 전체 일정의 절반 수준"]]></title>
 			<link>https://www.yna.co.kr/view/AKR20260322001900079</link>
@@ -1393,14 +1405,6 @@
 			<pubDate>Sat, 21 Mar 2026 16:01:28 +0900</pubDate>
 			<dc:creator>이영호</dc:creator>
 			<description><![CDATA[◇ 21일 전적(대전월드컵경기장)]]></description>
-		</item>
-		<item>
-			<title><![CDATA[[프로야구 부산전적] 롯데 12-6 한화]]></title>
-			<link>https://www.yna.co.kr/view/AKR20260321041500007</link>
-			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260321041500007</guid>
-			<pubDate>Sat, 21 Mar 2026 16:01:15 +0900</pubDate>
-			<dc:creator>이대호</dc:creator>
-			<description><![CDATA[▲ 부산전적(21일)]]></description>
 		</item>
 	</channel>
 </rss>
