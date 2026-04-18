@@ -9,8 +9,18 @@
 		<copyright><![CDATA[저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지]]></copyright>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
-		<lastBuildDate>Sun, 19 Apr 2026 02:11:44 +0900</lastBuildDate>
-		<pubDate>Sun, 19 Apr 2026 02:11:44 +0900</pubDate>
+		<lastBuildDate>Sun, 19 Apr 2026 02:37:13 +0900</lastBuildDate>
+		<pubDate>Sun, 19 Apr 2026 02:37:13 +0900</pubDate>
+		<item>
+			<title><![CDATA[키이우서 총기난사로 15명 사상…"용의자 모스크바 출신"(종합)]]></title>
+			<link>https://www.yna.co.kr/view/AKR20260419000851085</link>
+			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260419000851085</guid>
+			<pubDate>Sun, 19 Apr 2026 02:37:13 +0900</pubDate>
+			<dc:creator>김지연</dc:creator>
+			<description><![CDATA[(런던=연합뉴스) 김지연 특파원 = 18일(현지시간) 우크라이나 수도 키이우에서 총기 난사와 인질극이 벌어지면서 15명이 숨지거나 다쳤다.]]></description>
+			<media:content url="https://img.yna.co.kr/photo/ap/2026/04/19/PAP20260419019401009_P2.jpg" type="image/jpeg">
+			</media:content>
+		</item>
 		<item>
 			<title><![CDATA[美법무부, 프랑스의 'X' 대상 수사협조 거부…"표현 자유 침해"]]></title>
 			<link>https://www.yna.co.kr/view/AKR20260419001800091</link>
@@ -1231,15 +1241,6 @@
 			<description><![CDATA[(서울=연합뉴스) 18일 오후 2시 54분(한국시간) 일본 나가노현 나가노시 서남서쪽 27km 지역에서 규모 5.1의 지진이 발생했다고 기상청이...]]></description>
 			<media:content url="https://img.yna.co.kr/etc/inner/KR/2026/04/18/AKR20260418042100530_01_i_P2.jpg" type="image/jpeg">
 			</media:content>
-		</item>
-		<item>
-			<title><![CDATA[세계의 날씨(4월18일)]]></title>
-			<link>https://www.yna.co.kr/view/AKR20260418040900009</link>
-			<guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260418040900009</guid>
-			<pubDate>Sat, 18 Apr 2026 15:01:24 +0900</pubDate>
-			<dc:creator>국제뉴스공용1</dc:creator>
-			<description><![CDATA[(15:00)
-]]></description>
 		</item>
 	</channel>
 </rss>
